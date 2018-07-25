@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="base_orange">#FFFF4A00</color>
+    <color name="mod_public_search">#EDEDED</color>
+    <color name="place_star">#919E9B</color>
+</resources>
